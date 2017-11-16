@@ -234,7 +234,301 @@ ModelImporter:
     animationScaleError: 0.5
     animationWrapMode: 0
     extraExposedTransformPaths: []
-    clipAnimations: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: CINEMA_4D_Main
+      takeName: CINEMA_4D_Main
+      firstFrame: 0
+      lastFrame: 460
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events:
+      - time: 0.0030461217
+        functionName: SoundAppearance
+        data: 
+        objectReferenceParameter: {instanceID: 0}
+        floatParameter: 0
+        intParameter: 0
+        messageOptions: 0
+      - time: 0.2294748
+        functionName: SoundIdle
+        data: 
+        objectReferenceParameter: {instanceID: 0}
+        floatParameter: 0
+        intParameter: 0
+        messageOptions: 0
+      - time: 0.40547314
+        functionName: SoundHit1
+        data: 
+        objectReferenceParameter: {instanceID: 0}
+        floatParameter: 0
+        intParameter: 0
+        messageOptions: 0
+      - time: 0.5623902
+        functionName: Hit
+        data: 
+        objectReferenceParameter: {instanceID: 0}
+        floatParameter: 0
+        intParameter: 0
+        messageOptions: 0
+      - time: 0.6177899
+        functionName: Boom
+        data: 
+        objectReferenceParameter: {instanceID: 0}
+        floatParameter: 0
+        intParameter: 0
+        messageOptions: 0
+      - time: 0.6682618
+        functionName: SoundIdle
+        data: 
+        objectReferenceParameter: {instanceID: 0}
+        floatParameter: 0
+        intParameter: 0
+        messageOptions: 0
+      - time: 0.6696297
+        functionName: SoundHit2
+        data: 
+        objectReferenceParameter: {instanceID: 0}
+        floatParameter: 0
+        intParameter: 0
+        messageOptions: 0
+      - time: 0.71512944
+        functionName: Clear
+        data: 
+        objectReferenceParameter: {instanceID: 0}
+        floatParameter: 0
+        intParameter: 0
+        messageOptions: 0
+      - time: 0.79654676
+        functionName: Hit
+        data: 
+        objectReferenceParameter: {instanceID: 0}
+        floatParameter: 0
+        intParameter: 0
+        messageOptions: 0
+      - time: 0.8913897
+        functionName: Boom
+        data: 
+        objectReferenceParameter: {instanceID: 0}
+        floatParameter: 0
+        intParameter: 0
+        messageOptions: 0
+      - time: 0.9794024
+        functionName: Clear
+        data: 
+        objectReferenceParameter: {instanceID: 0}
+        floatParameter: 0
+        intParameter: 0
+        messageOptions: 0
+      - time: 0.991587
+        functionName: SoundIdle
+        data: 
+        objectReferenceParameter: {instanceID: 0}
+        floatParameter: 0
+        intParameter: 0
+        messageOptions: 0
+      transformMask:
+      - path: 
+        weight: 1
+      - path: cv07_001
+        weight: 1
+      - path: CV_BT_07
+        weight: 1
+      - path: CV_BT_07/BD_Spine_01_jnt
+        weight: 1
+      - path: CV_BT_07/BD_Spine_01_jnt/BD_Spine_02_jnt
+        weight: 1
+      - path: CV_BT_07/BD_Spine_01_jnt/BD_Spine_02_jnt/BD_Spine_03_jnt
+        weight: 1
+      - path: CV_BT_07/BD_Spine_01_jnt/BD_Spine_02_jnt/BD_Spine_03_jnt/BD_Spine_04_jnt
+        weight: 1
+      - path: CV_BT_07/BD_Spine_01_jnt/BD_Spine_02_jnt/BD_Spine_03_jnt/BD_Spine_04_jnt/BD_Chest_jnt
+        weight: 1
+      - path: CV_BT_07/BD_Spine_01_jnt/BD_Spine_02_jnt/BD_Spine_03_jnt/BD_Spine_04_jnt/BD_Chest_jnt/BD_Neck_jnt
+        weight: 1
+      - path: CV_BT_07/BD_Spine_01_jnt/BD_Spine_02_jnt/BD_Spine_03_jnt/BD_Spine_04_jnt/BD_Chest_jnt/BD_Neck_jnt/BD_Head_jnt
+        weight: 1
+      - path: CV_BT_07/BD_Spine_01_jnt/BD_Spine_02_jnt/BD_Spine_03_jnt/BD_Spine_04_jnt/BD_Chest_jnt/BD_Neck_jnt/BD_Head_jnt/BD_Head_Tip_jnt
+        weight: 1
+      - path: CV_BT_07/BD_Spine_01_jnt/BD_Spine_02_jnt/BD_Spine_03_jnt/BD_Spine_04_jnt/BD_Chest_jnt/L_BD_Collar_jnt
+        weight: 1
+      - path: CV_BT_07/BD_Spine_01_jnt/BD_Spine_02_jnt/BD_Spine_03_jnt/BD_Spine_04_jnt/BD_Chest_jnt/L_BD_Collar_jnt/L_BD_NB_Shoulder_jnt
+        weight: 1
+      - path: CV_BT_07/BD_Spine_01_jnt/BD_Spine_02_jnt/BD_Spine_03_jnt/BD_Spine_04_jnt/BD_Chest_jnt/L_BD_Collar_jnt/L_BD_NB_Shoulder_jnt/L_BD_NB_Forearm_Twist_01_jnt
+        weight: 1
+      - path: CV_BT_07/BD_Spine_01_jnt/BD_Spine_02_jnt/BD_Spine_03_jnt/BD_Spine_04_jnt/BD_Chest_jnt/L_BD_Collar_jnt/L_BD_NB_Shoulder_jnt/L_BD_NB_Forearm_Twist_01_jnt/L_BD_NB_Forearm_Twist_02_jnt
+        weight: 1
+      - path: CV_BT_07/BD_Spine_01_jnt/BD_Spine_02_jnt/BD_Spine_03_jnt/BD_Spine_04_jnt/BD_Chest_jnt/L_BD_Collar_jnt/L_BD_NB_Shoulder_jnt/L_BD_NB_Forearm_Twist_01_jnt/L_BD_NB_Forearm_Twist_02_jnt/L_BD_Wrist_01_jnt
+        weight: 1
+      - path: CV_BT_07/BD_Spine_01_jnt/BD_Spine_02_jnt/BD_Spine_03_jnt/BD_Spine_04_jnt/BD_Chest_jnt/L_BD_Collar_jnt/L_BD_NB_Shoulder_jnt/L_BD_NB_Forearm_Twist_01_jnt/L_BD_NB_Forearm_Twist_02_jnt/L_BD_Wrist_01_jnt/L_BD_Wrist_02_jnt
+        weight: 1
+      - path: CV_BT_07/BD_Spine_01_jnt/BD_Spine_02_jnt/BD_Spine_03_jnt/BD_Spine_04_jnt/BD_Chest_jnt/L_BD_Collar_jnt/L_BD_NB_Shoulder_jnt/L_BD_NB_Forearm_Twist_01_jnt/L_BD_NB_Forearm_Twist_02_jnt/L_BD_Wrist_01_jnt/L_BD_Wrist_02_jnt/L_BD_FK_Finger_Palm_Base_jnt
+        weight: 1
+      - path: CV_BT_07/BD_Spine_01_jnt/BD_Spine_02_jnt/BD_Spine_03_jnt/BD_Spine_04_jnt/BD_Chest_jnt/L_BD_Collar_jnt/L_BD_NB_Shoulder_jnt/L_BD_NB_Forearm_Twist_01_jnt/L_BD_NB_Forearm_Twist_02_jnt/L_BD_Wrist_01_jnt/L_BD_Wrist_02_jnt/L_BD_FK_Finger_Palm_Base_jnt/L_BD_FK_Finger_Base_jnt
+        weight: 1
+      - path: CV_BT_07/BD_Spine_01_jnt/BD_Spine_02_jnt/BD_Spine_03_jnt/BD_Spine_04_jnt/BD_Chest_jnt/L_BD_Collar_jnt/L_BD_NB_Shoulder_jnt/L_BD_NB_Forearm_Twist_01_jnt/L_BD_NB_Forearm_Twist_02_jnt/L_BD_Wrist_01_jnt/L_BD_Wrist_02_jnt/L_BD_FK_Finger_Palm_Base_jnt/L_BD_FK_Finger_Base_jnt/L_BD_FK_Finger_Mid_jnt
+        weight: 1
+      - path: CV_BT_07/BD_Spine_01_jnt/BD_Spine_02_jnt/BD_Spine_03_jnt/BD_Spine_04_jnt/BD_Chest_jnt/L_BD_Collar_jnt/L_BD_NB_Shoulder_jnt/L_BD_NB_Forearm_Twist_01_jnt/L_BD_NB_Forearm_Twist_02_jnt/L_BD_Wrist_01_jnt/L_BD_Wrist_02_jnt/L_BD_FK_Finger_Palm_Base_jnt/L_BD_FK_Finger_Base_jnt/L_BD_FK_Finger_Mid_jnt/L_BD_FK_Finger_Top_jnt
+        weight: 1
+      - path: CV_BT_07/BD_Spine_01_jnt/BD_Spine_02_jnt/BD_Spine_03_jnt/BD_Spine_04_jnt/BD_Chest_jnt/L_BD_Collar_jnt/L_BD_NB_Shoulder_jnt/L_BD_NB_Forearm_Twist_01_jnt/L_BD_NB_Forearm_Twist_02_jnt/L_BD_Wrist_01_jnt/L_BD_Wrist_02_jnt/L_BD_FK_Finger_Palm_Base_jnt/L_BD_FK_Finger_Base_jnt/L_BD_FK_Finger_Mid_jnt/L_BD_FK_Finger_Top_jnt/L_BD_FK_Finger_End_jnt
+        weight: 1
+      - path: CV_BT_07/BD_Spine_01_jnt/BD_Spine_02_jnt/BD_Spine_03_jnt/BD_Spine_04_jnt/BD_Chest_jnt/L_BD_Collar_jnt/L_BD_NB_Shoulder_jnt/L_BD_NB_Forearm_Twist_01_jnt/L_BD_NB_Forearm_Twist_02_jnt/L_BD_Wrist_01_jnt/L_BD_Wrist_02_jnt/L_BD_FK_Finger_Palm_Base_jnt_1
+        weight: 1
+      - path: CV_BT_07/BD_Spine_01_jnt/BD_Spine_02_jnt/BD_Spine_03_jnt/BD_Spine_04_jnt/BD_Chest_jnt/L_BD_Collar_jnt/L_BD_NB_Shoulder_jnt/L_BD_NB_Forearm_Twist_01_jnt/L_BD_NB_Forearm_Twist_02_jnt/L_BD_Wrist_01_jnt/L_BD_Wrist_02_jnt/L_BD_FK_Finger_Palm_Base_jnt_1/L_BD_FK_Finger_Base_jnt_1
+        weight: 1
+      - path: CV_BT_07/BD_Spine_01_jnt/BD_Spine_02_jnt/BD_Spine_03_jnt/BD_Spine_04_jnt/BD_Chest_jnt/L_BD_Collar_jnt/L_BD_NB_Shoulder_jnt/L_BD_NB_Forearm_Twist_01_jnt/L_BD_NB_Forearm_Twist_02_jnt/L_BD_Wrist_01_jnt/L_BD_Wrist_02_jnt/L_BD_FK_Finger_Palm_Base_jnt_1/L_BD_FK_Finger_Base_jnt_1/L_BD_FK_Finger_Mid_jnt_1
+        weight: 1
+      - path: CV_BT_07/BD_Spine_01_jnt/BD_Spine_02_jnt/BD_Spine_03_jnt/BD_Spine_04_jnt/BD_Chest_jnt/L_BD_Collar_jnt/L_BD_NB_Shoulder_jnt/L_BD_NB_Forearm_Twist_01_jnt/L_BD_NB_Forearm_Twist_02_jnt/L_BD_Wrist_01_jnt/L_BD_Wrist_02_jnt/L_BD_FK_Finger_Palm_Base_jnt_1/L_BD_FK_Finger_Base_jnt_1/L_BD_FK_Finger_Mid_jnt_1/L_BD_FK_Finger_Top_jnt_1
+        weight: 1
+      - path: CV_BT_07/BD_Spine_01_jnt/BD_Spine_02_jnt/BD_Spine_03_jnt/BD_Spine_04_jnt/BD_Chest_jnt/L_BD_Collar_jnt/L_BD_NB_Shoulder_jnt/L_BD_NB_Forearm_Twist_01_jnt/L_BD_NB_Forearm_Twist_02_jnt/L_BD_Wrist_01_jnt/L_BD_Wrist_02_jnt/L_BD_FK_Finger_Palm_Base_jnt_1/L_BD_FK_Finger_Base_jnt_1/L_BD_FK_Finger_Mid_jnt_1/L_BD_FK_Finger_Top_jnt_1/L_BD_FK_Finger_End_jnt_1
+        weight: 1
+      - path: CV_BT_07/BD_Spine_01_jnt/BD_Spine_02_jnt/BD_Spine_03_jnt/BD_Spine_04_jnt/BD_Chest_jnt/L_BD_Collar_jnt/L_BD_NB_Shoulder_jnt/L_BD_NB_Forearm_Twist_01_jnt/L_BD_NB_Forearm_Twist_02_jnt/L_BD_Wrist_01_jnt/L_BD_Wrist_02_jnt/L_BD_FK_Finger_Palm_Base_jnt_2
+        weight: 1
+      - path: CV_BT_07/BD_Spine_01_jnt/BD_Spine_02_jnt/BD_Spine_03_jnt/BD_Spine_04_jnt/BD_Chest_jnt/L_BD_Collar_jnt/L_BD_NB_Shoulder_jnt/L_BD_NB_Forearm_Twist_01_jnt/L_BD_NB_Forearm_Twist_02_jnt/L_BD_Wrist_01_jnt/L_BD_Wrist_02_jnt/L_BD_FK_Finger_Palm_Base_jnt_2/L_BD_FK_Finger_Base_jnt_2
+        weight: 1
+      - path: CV_BT_07/BD_Spine_01_jnt/BD_Spine_02_jnt/BD_Spine_03_jnt/BD_Spine_04_jnt/BD_Chest_jnt/L_BD_Collar_jnt/L_BD_NB_Shoulder_jnt/L_BD_NB_Forearm_Twist_01_jnt/L_BD_NB_Forearm_Twist_02_jnt/L_BD_Wrist_01_jnt/L_BD_Wrist_02_jnt/L_BD_FK_Finger_Palm_Base_jnt_2/L_BD_FK_Finger_Base_jnt_2/L_BD_FK_Finger_Mid_jnt_2
+        weight: 1
+      - path: CV_BT_07/BD_Spine_01_jnt/BD_Spine_02_jnt/BD_Spine_03_jnt/BD_Spine_04_jnt/BD_Chest_jnt/L_BD_Collar_jnt/L_BD_NB_Shoulder_jnt/L_BD_NB_Forearm_Twist_01_jnt/L_BD_NB_Forearm_Twist_02_jnt/L_BD_Wrist_01_jnt/L_BD_Wrist_02_jnt/L_BD_FK_Finger_Palm_Base_jnt_2/L_BD_FK_Finger_Base_jnt_2/L_BD_FK_Finger_Mid_jnt_2/L_BD_FK_Finger_Top_jnt_2
+        weight: 1
+      - path: CV_BT_07/BD_Spine_01_jnt/BD_Spine_02_jnt/BD_Spine_03_jnt/BD_Spine_04_jnt/BD_Chest_jnt/L_BD_Collar_jnt/L_BD_NB_Shoulder_jnt/L_BD_NB_Forearm_Twist_01_jnt/L_BD_NB_Forearm_Twist_02_jnt/L_BD_Wrist_01_jnt/L_BD_Wrist_02_jnt/L_BD_FK_Finger_Palm_Base_jnt_2/L_BD_FK_Finger_Base_jnt_2/L_BD_FK_Finger_Mid_jnt_2/L_BD_FK_Finger_Top_jnt_2/L_BD_FK_Finger_End_jnt_2
+        weight: 1
+      - path: CV_BT_07/BD_Spine_01_jnt/BD_Spine_02_jnt/BD_Spine_03_jnt/BD_Spine_04_jnt/BD_Chest_jnt/L_BD_Collar_jnt/L_BD_NB_Shoulder_jnt/L_BD_NB_Forearm_Twist_01_jnt/L_BD_NB_Forearm_Twist_02_jnt/L_BD_Wrist_01_jnt/L_BD_Wrist_02_jnt/L_BD_FK_Finger_Palm_Base_jnt_3
+        weight: 1
+      - path: CV_BT_07/BD_Spine_01_jnt/BD_Spine_02_jnt/BD_Spine_03_jnt/BD_Spine_04_jnt/BD_Chest_jnt/L_BD_Collar_jnt/L_BD_NB_Shoulder_jnt/L_BD_NB_Forearm_Twist_01_jnt/L_BD_NB_Forearm_Twist_02_jnt/L_BD_Wrist_01_jnt/L_BD_Wrist_02_jnt/L_BD_FK_Finger_Palm_Base_jnt_3/L_BD_FK_Finger_Base_jnt_3
+        weight: 1
+      - path: CV_BT_07/BD_Spine_01_jnt/BD_Spine_02_jnt/BD_Spine_03_jnt/BD_Spine_04_jnt/BD_Chest_jnt/L_BD_Collar_jnt/L_BD_NB_Shoulder_jnt/L_BD_NB_Forearm_Twist_01_jnt/L_BD_NB_Forearm_Twist_02_jnt/L_BD_Wrist_01_jnt/L_BD_Wrist_02_jnt/L_BD_FK_Finger_Palm_Base_jnt_3/L_BD_FK_Finger_Base_jnt_3/L_BD_FK_Finger_Mid_jnt_3
+        weight: 1
+      - path: CV_BT_07/BD_Spine_01_jnt/BD_Spine_02_jnt/BD_Spine_03_jnt/BD_Spine_04_jnt/BD_Chest_jnt/L_BD_Collar_jnt/L_BD_NB_Shoulder_jnt/L_BD_NB_Forearm_Twist_01_jnt/L_BD_NB_Forearm_Twist_02_jnt/L_BD_Wrist_01_jnt/L_BD_Wrist_02_jnt/L_BD_FK_Finger_Palm_Base_jnt_3/L_BD_FK_Finger_Base_jnt_3/L_BD_FK_Finger_Mid_jnt_3/L_BD_FK_Finger_Top_jnt_3
+        weight: 1
+      - path: CV_BT_07/BD_Spine_01_jnt/BD_Spine_02_jnt/BD_Spine_03_jnt/BD_Spine_04_jnt/BD_Chest_jnt/L_BD_Collar_jnt/L_BD_NB_Shoulder_jnt/L_BD_NB_Forearm_Twist_01_jnt/L_BD_NB_Forearm_Twist_02_jnt/L_BD_Wrist_01_jnt/L_BD_Wrist_02_jnt/L_BD_FK_Finger_Palm_Base_jnt_3/L_BD_FK_Finger_Base_jnt_3/L_BD_FK_Finger_Mid_jnt_3/L_BD_FK_Finger_Top_jnt_3/L_BD_FK_Finger_End_jnt_3
+        weight: 1
+      - path: CV_BT_07/BD_Spine_01_jnt/BD_Spine_02_jnt/BD_Spine_03_jnt/BD_Spine_04_jnt/BD_Chest_jnt/L_BD_Collar_jnt/L_BD_NB_Shoulder_jnt/L_BD_NB_Forearm_Twist_01_jnt/L_BD_NB_Forearm_Twist_02_jnt/L_BD_Wrist_01_jnt/L_BD_Wrist_02_jnt/L_BD_FK_Thumb_Root_jnt
+        weight: 1
+      - path: CV_BT_07/BD_Spine_01_jnt/BD_Spine_02_jnt/BD_Spine_03_jnt/BD_Spine_04_jnt/BD_Chest_jnt/L_BD_Collar_jnt/L_BD_NB_Shoulder_jnt/L_BD_NB_Forearm_Twist_01_jnt/L_BD_NB_Forearm_Twist_02_jnt/L_BD_Wrist_01_jnt/L_BD_Wrist_02_jnt/L_BD_FK_Thumb_Root_jnt/L_BD_FK_Thumb_Base_jnt
+        weight: 1
+      - path: CV_BT_07/BD_Spine_01_jnt/BD_Spine_02_jnt/BD_Spine_03_jnt/BD_Spine_04_jnt/BD_Chest_jnt/L_BD_Collar_jnt/L_BD_NB_Shoulder_jnt/L_BD_NB_Forearm_Twist_01_jnt/L_BD_NB_Forearm_Twist_02_jnt/L_BD_Wrist_01_jnt/L_BD_Wrist_02_jnt/L_BD_FK_Thumb_Root_jnt/L_BD_FK_Thumb_Base_jnt/L_BD_FK_Thumb_Mid_jnt
+        weight: 1
+      - path: CV_BT_07/BD_Spine_01_jnt/BD_Spine_02_jnt/BD_Spine_03_jnt/BD_Spine_04_jnt/BD_Chest_jnt/L_BD_Collar_jnt/L_BD_NB_Shoulder_jnt/L_BD_NB_Forearm_Twist_01_jnt/L_BD_NB_Forearm_Twist_02_jnt/L_BD_Wrist_01_jnt/L_BD_Wrist_02_jnt/L_BD_FK_Thumb_Root_jnt/L_BD_FK_Thumb_Base_jnt/L_BD_FK_Thumb_Mid_jnt/L_BD_FK_Thumb_End_jnt
+        weight: 1
+      - path: CV_BT_07/BD_Spine_01_jnt/BD_Spine_02_jnt/BD_Spine_03_jnt/BD_Spine_04_jnt/BD_Chest_jnt/L_BD_Collar_jnt/L_BD_NB_Shoulder_jnt/L_BD_NB_Forearm_Twist_01_jnt/L_BD_NB_Forearm_Twist_02_jnt/L_BD_Wrist_01_jnt/L_BD_Wrist_02_jnt/sword01
+        weight: 1
+      - path: CV_BT_07/BD_Spine_01_jnt/BD_Spine_02_jnt/BD_Spine_03_jnt/BD_Spine_04_jnt/BD_Chest_jnt/R_BD_Collar_jnt
+        weight: 1
+      - path: CV_BT_07/BD_Spine_01_jnt/BD_Spine_02_jnt/BD_Spine_03_jnt/BD_Spine_04_jnt/BD_Chest_jnt/R_BD_Collar_jnt/R_BD_NB_Shoulder_jnt
+        weight: 1
+      - path: CV_BT_07/BD_Spine_01_jnt/BD_Spine_02_jnt/BD_Spine_03_jnt/BD_Spine_04_jnt/BD_Chest_jnt/R_BD_Collar_jnt/R_BD_NB_Shoulder_jnt/R_BD_NB_Forearm_Twist_01_jnt
+        weight: 1
+      - path: CV_BT_07/BD_Spine_01_jnt/BD_Spine_02_jnt/BD_Spine_03_jnt/BD_Spine_04_jnt/BD_Chest_jnt/R_BD_Collar_jnt/R_BD_NB_Shoulder_jnt/R_BD_NB_Forearm_Twist_01_jnt/R_BD_NB_Forearm_Twist_02_jnt
+        weight: 1
+      - path: CV_BT_07/BD_Spine_01_jnt/BD_Spine_02_jnt/BD_Spine_03_jnt/BD_Spine_04_jnt/BD_Chest_jnt/R_BD_Collar_jnt/R_BD_NB_Shoulder_jnt/R_BD_NB_Forearm_Twist_01_jnt/R_BD_NB_Forearm_Twist_02_jnt/R_BD_Wrist_01_jnt
+        weight: 1
+      - path: CV_BT_07/BD_Spine_01_jnt/BD_Spine_02_jnt/BD_Spine_03_jnt/BD_Spine_04_jnt/BD_Chest_jnt/R_BD_Collar_jnt/R_BD_NB_Shoulder_jnt/R_BD_NB_Forearm_Twist_01_jnt/R_BD_NB_Forearm_Twist_02_jnt/R_BD_Wrist_01_jnt/R_BD_Wrist_02_jnt
+        weight: 1
+      - path: CV_BT_07/BD_Spine_01_jnt/BD_Spine_02_jnt/BD_Spine_03_jnt/BD_Spine_04_jnt/BD_Chest_jnt/R_BD_Collar_jnt/R_BD_NB_Shoulder_jnt/R_BD_NB_Forearm_Twist_01_jnt/R_BD_NB_Forearm_Twist_02_jnt/R_BD_Wrist_01_jnt/R_BD_Wrist_02_jnt/R_BD_FK_Finger_Palm_Base_jnt
+        weight: 1
+      - path: CV_BT_07/BD_Spine_01_jnt/BD_Spine_02_jnt/BD_Spine_03_jnt/BD_Spine_04_jnt/BD_Chest_jnt/R_BD_Collar_jnt/R_BD_NB_Shoulder_jnt/R_BD_NB_Forearm_Twist_01_jnt/R_BD_NB_Forearm_Twist_02_jnt/R_BD_Wrist_01_jnt/R_BD_Wrist_02_jnt/R_BD_FK_Finger_Palm_Base_jnt/R_BD_FK_Finger_Base_jnt
+        weight: 1
+      - path: CV_BT_07/BD_Spine_01_jnt/BD_Spine_02_jnt/BD_Spine_03_jnt/BD_Spine_04_jnt/BD_Chest_jnt/R_BD_Collar_jnt/R_BD_NB_Shoulder_jnt/R_BD_NB_Forearm_Twist_01_jnt/R_BD_NB_Forearm_Twist_02_jnt/R_BD_Wrist_01_jnt/R_BD_Wrist_02_jnt/R_BD_FK_Finger_Palm_Base_jnt/R_BD_FK_Finger_Base_jnt/R_BD_FK_Finger_Mid_jnt
+        weight: 1
+      - path: CV_BT_07/BD_Spine_01_jnt/BD_Spine_02_jnt/BD_Spine_03_jnt/BD_Spine_04_jnt/BD_Chest_jnt/R_BD_Collar_jnt/R_BD_NB_Shoulder_jnt/R_BD_NB_Forearm_Twist_01_jnt/R_BD_NB_Forearm_Twist_02_jnt/R_BD_Wrist_01_jnt/R_BD_Wrist_02_jnt/R_BD_FK_Finger_Palm_Base_jnt/R_BD_FK_Finger_Base_jnt/R_BD_FK_Finger_Mid_jnt/R_BD_FK_Finger_Top_jnt
+        weight: 1
+      - path: CV_BT_07/BD_Spine_01_jnt/BD_Spine_02_jnt/BD_Spine_03_jnt/BD_Spine_04_jnt/BD_Chest_jnt/R_BD_Collar_jnt/R_BD_NB_Shoulder_jnt/R_BD_NB_Forearm_Twist_01_jnt/R_BD_NB_Forearm_Twist_02_jnt/R_BD_Wrist_01_jnt/R_BD_Wrist_02_jnt/R_BD_FK_Finger_Palm_Base_jnt/R_BD_FK_Finger_Base_jnt/R_BD_FK_Finger_Mid_jnt/R_BD_FK_Finger_Top_jnt/R_BD_FK_Finger_End_jnt
+        weight: 1
+      - path: CV_BT_07/BD_Spine_01_jnt/BD_Spine_02_jnt/BD_Spine_03_jnt/BD_Spine_04_jnt/BD_Chest_jnt/R_BD_Collar_jnt/R_BD_NB_Shoulder_jnt/R_BD_NB_Forearm_Twist_01_jnt/R_BD_NB_Forearm_Twist_02_jnt/R_BD_Wrist_01_jnt/R_BD_Wrist_02_jnt/R_BD_FK_Finger_Palm_Base_jnt_1
+        weight: 1
+      - path: CV_BT_07/BD_Spine_01_jnt/BD_Spine_02_jnt/BD_Spine_03_jnt/BD_Spine_04_jnt/BD_Chest_jnt/R_BD_Collar_jnt/R_BD_NB_Shoulder_jnt/R_BD_NB_Forearm_Twist_01_jnt/R_BD_NB_Forearm_Twist_02_jnt/R_BD_Wrist_01_jnt/R_BD_Wrist_02_jnt/R_BD_FK_Finger_Palm_Base_jnt_1/R_BD_FK_Finger_Base_jnt_1
+        weight: 1
+      - path: CV_BT_07/BD_Spine_01_jnt/BD_Spine_02_jnt/BD_Spine_03_jnt/BD_Spine_04_jnt/BD_Chest_jnt/R_BD_Collar_jnt/R_BD_NB_Shoulder_jnt/R_BD_NB_Forearm_Twist_01_jnt/R_BD_NB_Forearm_Twist_02_jnt/R_BD_Wrist_01_jnt/R_BD_Wrist_02_jnt/R_BD_FK_Finger_Palm_Base_jnt_1/R_BD_FK_Finger_Base_jnt_1/R_BD_FK_Finger_Mid_jnt_1
+        weight: 1
+      - path: CV_BT_07/BD_Spine_01_jnt/BD_Spine_02_jnt/BD_Spine_03_jnt/BD_Spine_04_jnt/BD_Chest_jnt/R_BD_Collar_jnt/R_BD_NB_Shoulder_jnt/R_BD_NB_Forearm_Twist_01_jnt/R_BD_NB_Forearm_Twist_02_jnt/R_BD_Wrist_01_jnt/R_BD_Wrist_02_jnt/R_BD_FK_Finger_Palm_Base_jnt_1/R_BD_FK_Finger_Base_jnt_1/R_BD_FK_Finger_Mid_jnt_1/R_BD_FK_Finger_Top_jnt_1
+        weight: 1
+      - path: CV_BT_07/BD_Spine_01_jnt/BD_Spine_02_jnt/BD_Spine_03_jnt/BD_Spine_04_jnt/BD_Chest_jnt/R_BD_Collar_jnt/R_BD_NB_Shoulder_jnt/R_BD_NB_Forearm_Twist_01_jnt/R_BD_NB_Forearm_Twist_02_jnt/R_BD_Wrist_01_jnt/R_BD_Wrist_02_jnt/R_BD_FK_Finger_Palm_Base_jnt_1/R_BD_FK_Finger_Base_jnt_1/R_BD_FK_Finger_Mid_jnt_1/R_BD_FK_Finger_Top_jnt_1/R_BD_FK_Finger_End_jnt_1
+        weight: 1
+      - path: CV_BT_07/BD_Spine_01_jnt/BD_Spine_02_jnt/BD_Spine_03_jnt/BD_Spine_04_jnt/BD_Chest_jnt/R_BD_Collar_jnt/R_BD_NB_Shoulder_jnt/R_BD_NB_Forearm_Twist_01_jnt/R_BD_NB_Forearm_Twist_02_jnt/R_BD_Wrist_01_jnt/R_BD_Wrist_02_jnt/R_BD_FK_Finger_Palm_Base_jnt_2
+        weight: 1
+      - path: CV_BT_07/BD_Spine_01_jnt/BD_Spine_02_jnt/BD_Spine_03_jnt/BD_Spine_04_jnt/BD_Chest_jnt/R_BD_Collar_jnt/R_BD_NB_Shoulder_jnt/R_BD_NB_Forearm_Twist_01_jnt/R_BD_NB_Forearm_Twist_02_jnt/R_BD_Wrist_01_jnt/R_BD_Wrist_02_jnt/R_BD_FK_Finger_Palm_Base_jnt_2/R_BD_FK_Finger_Base_jnt_2
+        weight: 1
+      - path: CV_BT_07/BD_Spine_01_jnt/BD_Spine_02_jnt/BD_Spine_03_jnt/BD_Spine_04_jnt/BD_Chest_jnt/R_BD_Collar_jnt/R_BD_NB_Shoulder_jnt/R_BD_NB_Forearm_Twist_01_jnt/R_BD_NB_Forearm_Twist_02_jnt/R_BD_Wrist_01_jnt/R_BD_Wrist_02_jnt/R_BD_FK_Finger_Palm_Base_jnt_2/R_BD_FK_Finger_Base_jnt_2/R_BD_FK_Finger_Mid_jnt_2
+        weight: 1
+      - path: CV_BT_07/BD_Spine_01_jnt/BD_Spine_02_jnt/BD_Spine_03_jnt/BD_Spine_04_jnt/BD_Chest_jnt/R_BD_Collar_jnt/R_BD_NB_Shoulder_jnt/R_BD_NB_Forearm_Twist_01_jnt/R_BD_NB_Forearm_Twist_02_jnt/R_BD_Wrist_01_jnt/R_BD_Wrist_02_jnt/R_BD_FK_Finger_Palm_Base_jnt_2/R_BD_FK_Finger_Base_jnt_2/R_BD_FK_Finger_Mid_jnt_2/R_BD_FK_Finger_Top_jnt_2
+        weight: 1
+      - path: CV_BT_07/BD_Spine_01_jnt/BD_Spine_02_jnt/BD_Spine_03_jnt/BD_Spine_04_jnt/BD_Chest_jnt/R_BD_Collar_jnt/R_BD_NB_Shoulder_jnt/R_BD_NB_Forearm_Twist_01_jnt/R_BD_NB_Forearm_Twist_02_jnt/R_BD_Wrist_01_jnt/R_BD_Wrist_02_jnt/R_BD_FK_Finger_Palm_Base_jnt_2/R_BD_FK_Finger_Base_jnt_2/R_BD_FK_Finger_Mid_jnt_2/R_BD_FK_Finger_Top_jnt_2/R_BD_FK_Finger_End_jnt_2
+        weight: 1
+      - path: CV_BT_07/BD_Spine_01_jnt/BD_Spine_02_jnt/BD_Spine_03_jnt/BD_Spine_04_jnt/BD_Chest_jnt/R_BD_Collar_jnt/R_BD_NB_Shoulder_jnt/R_BD_NB_Forearm_Twist_01_jnt/R_BD_NB_Forearm_Twist_02_jnt/R_BD_Wrist_01_jnt/R_BD_Wrist_02_jnt/R_BD_FK_Finger_Palm_Base_jnt_3
+        weight: 1
+      - path: CV_BT_07/BD_Spine_01_jnt/BD_Spine_02_jnt/BD_Spine_03_jnt/BD_Spine_04_jnt/BD_Chest_jnt/R_BD_Collar_jnt/R_BD_NB_Shoulder_jnt/R_BD_NB_Forearm_Twist_01_jnt/R_BD_NB_Forearm_Twist_02_jnt/R_BD_Wrist_01_jnt/R_BD_Wrist_02_jnt/R_BD_FK_Finger_Palm_Base_jnt_3/R_BD_FK_Finger_Base_jnt_3
+        weight: 1
+      - path: CV_BT_07/BD_Spine_01_jnt/BD_Spine_02_jnt/BD_Spine_03_jnt/BD_Spine_04_jnt/BD_Chest_jnt/R_BD_Collar_jnt/R_BD_NB_Shoulder_jnt/R_BD_NB_Forearm_Twist_01_jnt/R_BD_NB_Forearm_Twist_02_jnt/R_BD_Wrist_01_jnt/R_BD_Wrist_02_jnt/R_BD_FK_Finger_Palm_Base_jnt_3/R_BD_FK_Finger_Base_jnt_3/R_BD_FK_Finger_Mid_jnt_3
+        weight: 1
+      - path: CV_BT_07/BD_Spine_01_jnt/BD_Spine_02_jnt/BD_Spine_03_jnt/BD_Spine_04_jnt/BD_Chest_jnt/R_BD_Collar_jnt/R_BD_NB_Shoulder_jnt/R_BD_NB_Forearm_Twist_01_jnt/R_BD_NB_Forearm_Twist_02_jnt/R_BD_Wrist_01_jnt/R_BD_Wrist_02_jnt/R_BD_FK_Finger_Palm_Base_jnt_3/R_BD_FK_Finger_Base_jnt_3/R_BD_FK_Finger_Mid_jnt_3/R_BD_FK_Finger_Top_jnt_3
+        weight: 1
+      - path: CV_BT_07/BD_Spine_01_jnt/BD_Spine_02_jnt/BD_Spine_03_jnt/BD_Spine_04_jnt/BD_Chest_jnt/R_BD_Collar_jnt/R_BD_NB_Shoulder_jnt/R_BD_NB_Forearm_Twist_01_jnt/R_BD_NB_Forearm_Twist_02_jnt/R_BD_Wrist_01_jnt/R_BD_Wrist_02_jnt/R_BD_FK_Finger_Palm_Base_jnt_3/R_BD_FK_Finger_Base_jnt_3/R_BD_FK_Finger_Mid_jnt_3/R_BD_FK_Finger_Top_jnt_3/R_BD_FK_Finger_End_jnt_3
+        weight: 1
+      - path: CV_BT_07/BD_Spine_01_jnt/BD_Spine_02_jnt/BD_Spine_03_jnt/BD_Spine_04_jnt/BD_Chest_jnt/R_BD_Collar_jnt/R_BD_NB_Shoulder_jnt/R_BD_NB_Forearm_Twist_01_jnt/R_BD_NB_Forearm_Twist_02_jnt/R_BD_Wrist_01_jnt/R_BD_Wrist_02_jnt/R_BD_FK_Thumb_Root_jnt
+        weight: 1
+      - path: CV_BT_07/BD_Spine_01_jnt/BD_Spine_02_jnt/BD_Spine_03_jnt/BD_Spine_04_jnt/BD_Chest_jnt/R_BD_Collar_jnt/R_BD_NB_Shoulder_jnt/R_BD_NB_Forearm_Twist_01_jnt/R_BD_NB_Forearm_Twist_02_jnt/R_BD_Wrist_01_jnt/R_BD_Wrist_02_jnt/R_BD_FK_Thumb_Root_jnt/R_BD_FK_Thumb_Base_jnt
+        weight: 1
+      - path: CV_BT_07/BD_Spine_01_jnt/BD_Spine_02_jnt/BD_Spine_03_jnt/BD_Spine_04_jnt/BD_Chest_jnt/R_BD_Collar_jnt/R_BD_NB_Shoulder_jnt/R_BD_NB_Forearm_Twist_01_jnt/R_BD_NB_Forearm_Twist_02_jnt/R_BD_Wrist_01_jnt/R_BD_Wrist_02_jnt/R_BD_FK_Thumb_Root_jnt/R_BD_FK_Thumb_Base_jnt/R_BD_FK_Thumb_Mid_jnt
+        weight: 1
+      - path: CV_BT_07/BD_Spine_01_jnt/BD_Spine_02_jnt/BD_Spine_03_jnt/BD_Spine_04_jnt/BD_Chest_jnt/R_BD_Collar_jnt/R_BD_NB_Shoulder_jnt/R_BD_NB_Forearm_Twist_01_jnt/R_BD_NB_Forearm_Twist_02_jnt/R_BD_Wrist_01_jnt/R_BD_Wrist_02_jnt/R_BD_FK_Thumb_Root_jnt/R_BD_FK_Thumb_Base_jnt/R_BD_FK_Thumb_Mid_jnt/R_BD_FK_Thumb_End_jnt
+        weight: 1
+      - path: CV_BT_07/BD_Spine_01_jnt/BD_Spine_02_jnt/BD_Spine_03_jnt/BD_Spine_04_jnt/BD_Chest_jnt/R_BD_Collar_jnt/R_BD_NB_Shoulder_jnt/R_BD_NB_Forearm_Twist_01_jnt/R_BD_NB_Forearm_Twist_02_jnt/R_BD_Wrist_01_jnt/R_BD_Wrist_02_jnt/sword01_1
+        weight: 1
+      - path: CV_BT_07/BD_Spine_01_jnt/L_BD_NB_Hip_jnt
+        weight: 1
+      - path: CV_BT_07/BD_Spine_01_jnt/L_BD_NB_Hip_jnt/L_BD_NB_Knee_jnt
+        weight: 1
+      - path: CV_BT_07/BD_Spine_01_jnt/L_BD_NB_Hip_jnt/L_BD_NB_Knee_jnt/L_BD_NB_Ankle_jnt
+        weight: 1
+      - path: CV_BT_07/BD_Spine_01_jnt/L_BD_NB_Hip_jnt/L_BD_NB_Knee_jnt/L_BD_NB_Ankle_jnt/L_BD_NB_Ball_jnt
+        weight: 1
+      - path: CV_BT_07/BD_Spine_01_jnt/L_BD_NB_Hip_jnt/L_BD_NB_Knee_jnt/L_BD_NB_Ankle_jnt/L_BD_NB_Ball_jnt/L_BD_NB_Toes_jnt
+        weight: 1
+      - path: CV_BT_07/BD_Spine_01_jnt/R_BD_NB_Hip_jnt
+        weight: 1
+      - path: CV_BT_07/BD_Spine_01_jnt/R_BD_NB_Hip_jnt/R_BD_NB_Knee_jnt
+        weight: 1
+      - path: CV_BT_07/BD_Spine_01_jnt/R_BD_NB_Hip_jnt/R_BD_NB_Knee_jnt/R_BD_NB_Ankle_jnt
+        weight: 1
+      - path: CV_BT_07/BD_Spine_01_jnt/R_BD_NB_Hip_jnt/R_BD_NB_Knee_jnt/R_BD_NB_Ankle_jnt/R_BD_NB_Ball_jnt
+        weight: 1
+      - path: CV_BT_07/BD_Spine_01_jnt/R_BD_NB_Hip_jnt/R_BD_NB_Knee_jnt/R_BD_NB_Ankle_jnt/R_BD_NB_Ball_jnt/R_BD_NB_Toes_jnt
+        weight: 1
+      - path: Drone
+        weight: 1
+      - path: Drone/Cube
+        weight: 1
+      - path: Drone/L_Null_1
+        weight: 1
+      - path: Drone/L_Null_1/L_Drone_2
+        weight: 1
+      - path: Drone/R_Null_1
+        weight: 1
+      - path: Drone/R_Null_1/R_Drone_2
+        weight: 1
+      - path: Plane
+        weight: 1
+      - path: Portal
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
     isReadable: 1
   meshes:
     lODScreenPercentages: []
