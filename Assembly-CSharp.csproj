@@ -47,8 +47,9 @@
   </ItemGroup>
   <ItemGroup>
      <Compile Include="Assets\Scripts\HitDroidEvents.cs" />
+     <Compile Include="Assets\Scripts\MainMenu.cs" />
      <Compile Include="Assets\Scripts\PortalOpenTrigger.cs" />
-     <Compile Include="Assets\SoundsManager.cs" />
+     <Compile Include="Assets\Scripts\SoundsManager.cs" />
  <Reference Include="UnityEngine.UI">
  <HintPath>D:/утилиты/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll</HintPath>
  </Reference>
